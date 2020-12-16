@@ -4,7 +4,7 @@
 FGGA-lnc is a graph-based Machine Learning approach for the automatic and consistent GO annotation from lncRNA sequences.
 
 ---------
-#Download data used in paper
+# Download data used in paper
 ---------
 
 Data is hosted on Datasets file 
