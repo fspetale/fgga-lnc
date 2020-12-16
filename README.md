@@ -1,7 +1,7 @@
 ----------
 # fgga-lnc
 ----------
-FGGA-lnc is a graph-based Machine Learning approach for the automatic and consistent GO annotation of lncRNA sequences.
+FGGA-lnc is a graph-based Machine Learning approach for the automatic and consistent GO annotation from lncRNA sequences.
 
 ---------
 #Download data used in paper
@@ -14,13 +14,13 @@ Data is hosted on Datasets file
 -------------
 The following software and libraries must be installed on your machine:
 
-R Rscript: tested with version 3.6.3
+[R](https://cran.r-project.org/) Rscript: tested with version 3.6.3
 
-mfold package: tested with version 2.3
+[mfold](http://www.unafold.org/) package: tested with version 2.3
 
-jsonlite: tested with version 1.6.1
+[jsonlite](https://cran.r-project.org/web/packages/jsonlite/) library: tested with version 1.6.1
 
-seqinr: tested with version 3.6-1
+[seqinr](https://cran.r-project.org/web/packages/seqinr/) library: tested with version 3.6-1
 
 ----------
 # Authors
