@@ -26,7 +26,7 @@ The following software and libraries must be installed on your machine:
 # xxx
 --------
 name the sequence
-´´´lncRNA_SS2("URS0000759B2A_9823")´´´
+´´´lncRNA_SS2("./home/user","URS0000759B2A_9823")´´´
 
 ----------
 # Authors
