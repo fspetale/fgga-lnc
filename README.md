@@ -22,11 +22,15 @@ The following software and libraries must be installed on your machine:
 
 [seqinr](https://cran.r-project.org/web/packages/seqinr/) library: tested with version 3.6-1
 
----------
-# xxx
---------
-name the sequence
-´´´lncRNA_SS2("./home/user","URS0000759B2A_9823")´´´
+------------
+# How to use
+------------
+
+```
+lncRNA_SS2("path","name-seq")
+```
+
+Where name-seq is the name of the sequence such as URS000195C635_9615 and path is the directory where the predicted secondary structure is stored such as /home/user/temp
 
 ----------
 # Authors
